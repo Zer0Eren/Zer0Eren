@@ -1,6 +1,6 @@
 # 👋 Merhaba! Ben Zer0 
 
-💻 ** Siber Güvenlik ve Yazılım Geliştirme **  
+💻 **Siber Güvenlik ve Yazılım Geliştirme**  
 🔍 **Ağ güvenliği, penetrasyon testleri ve yazılım geliştirme ile ilgileniyorum.**  
 📌 **Backend & Frontend geliştirme, veritabanı yönetimi ve sistem güvenliği üzerine çalışıyorum.**  
 
