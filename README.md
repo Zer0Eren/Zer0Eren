@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Merhaba! Ben Zer0 
 
-<!--
-**Zer0Eren/Zer0Eren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 ** Siber Güvenlik ve Yazılım Geliştirme **  
+🔍 **Ağ güvenliği, penetrasyon testleri ve yazılım geliştirme ile ilgileniyorum.**  
+📌 **Backend & Frontend geliştirme, veritabanı yönetimi ve sistem güvenliği üzerine çalışıyorum.**  
 
-Here are some ideas to get you started:
+## 🚀 **Kullandığım Diller ve Teknolojiler**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 **GitHub İstatistiklerim**
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zer0Eren&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zer0Eren&theme=dark" height="150"/>
+</p>
