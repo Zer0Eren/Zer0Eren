@@ -24,8 +24,8 @@
 
 ---
 
-## 📊 **GitHub İstatistiklerim**
+## 📊 **GitHub İstatistiklerim**  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zer0Eren&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zer0Eren&show_icons=true&theme=dark" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zer0Eren&theme=dark" height="150"/>
 </p>
